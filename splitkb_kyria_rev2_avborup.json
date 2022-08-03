@@ -20,7 +20,7 @@
       "KC_P",
       "KC_LBRC",
       "ANY(MT(MOD_LCTL, KC_ESC))",
-      "ANY(MT(MOD_LSFT, KC_A))",
+      "KC_A",
       "KC_S",
       "KC_D",
       "KC_F",
