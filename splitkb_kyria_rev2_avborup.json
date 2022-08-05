@@ -52,9 +52,9 @@
       "KC_LCTL",
       "KC_SPC",
       "MO(3)",
-      "KC_RSFT",
-      "LT(4,KC_BSPC)",
-      "KC_ENT",
+      "MO(4)",
+      "KC_BSPC",
+      "ANY(MT(MOD_RSFT, KC_ENT))",
       "KC_LALT",
       "KC_MUTE"
     ],
