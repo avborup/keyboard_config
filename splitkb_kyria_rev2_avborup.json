@@ -54,7 +54,7 @@
       "MO(3)",
       "MO(4)",
       "ANY(MT(MOD_RSFT, KC_BSPC))",
-      "ANY(MT(MOD_RSFT, KC_ENT))",
+      "KC_ENT",
       "KC_LALT",
       "KC_MUTE"
     ],
