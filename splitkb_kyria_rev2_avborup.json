@@ -51,7 +51,7 @@
       "KC_LGUI",
       "KC_LCTL",
       "KC_SPC",
-      "LT(3,KC_ESC)",
+      "MO(3)",
       "MO(4)",
       "ANY(MT(MOD_RSFT, KC_BSPC))",
       "KC_ENT",
