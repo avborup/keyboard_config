@@ -180,7 +180,7 @@
       "KC_4",
       "KC_5",
       "KC_6",
-      "KC_TRNS",
+      "SGUI(LCTL(KC_4))",
       "KC_LEFT",
       "KC_DOWN",
       "KC_UP",
